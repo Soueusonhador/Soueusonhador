@@ -19,5 +19,6 @@ My name is Régnier and I'm a *DBA* from Brazil!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
           
           
-          
-          
+
+<a href="https://github.com/Soueusonhador"></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soueusonhador&theme=dark&show_icons=true)
