@@ -21,4 +21,4 @@ My name is Régnier and I'm a *DBA* from Brazil!
           
 
 <a href="https://github.com/Soueusonhador"></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soueusonhador&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soueusonhador&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soueusonhador&theme=dark&show_icons=true) 
