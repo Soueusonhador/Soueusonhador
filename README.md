@@ -1,9 +1,9 @@
 ### Hello 👋
-My name is Régnier and I'm a *DBA* from Brazil!
+My name is Régnier and I'm a *DEVELOPER* from Brazil!
 
 
 
-- 🔭 I’m currently working as DBA on *SOV SOLUTIONS*
+- 🔭 I’m currently working as *DBA* and *BackEnd-Developer* on *SOV SOLUTIONS*
 - 🌱 I’m currently learning *Node.Js* and *Solidity*
 - 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/regnier-ribeiro)
 - 📫 How to reach me [regnier.oliveira2@outlook.com](mailto:regnier.oliveira2@outlook.com)
